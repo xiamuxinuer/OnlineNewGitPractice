@@ -1,2 +1,4 @@
-1. martin,35, male,
-2.jesica ,25, female
+
+name, age, gender
+martin,35, male,
+jessica ,25, female
